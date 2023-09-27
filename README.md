@@ -58,4 +58,4 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plu
 
 ## Contact
 
-Pour toute question ou commentaire, veuillez nous contacter à [votre-email@example.com].
+Pour toute question ou commentaire, veuillez nous contacter à [contact@mustardai.com].
