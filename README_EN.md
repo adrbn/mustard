@@ -22,7 +22,7 @@ Describe how to install your software here, including dependencies and specific 
 
 ```bash
 # Example installation for Linux
-git clone https://github.com/your-username/mustard.git
+git clone https://github.com/adrbn/mustard.git
 cd mustard
 ./install.sh
 ```
