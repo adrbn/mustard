@@ -4,7 +4,7 @@
 <img src="assets/mustard_logo.png" alt="MUSTARD Logo" width="444">
 <br>
 
-MUSTARD is powerful software designed for advanced music translation, ranging from the separation of instrumental and vocal tracks to high-quality speech synthesis while preserving musicality. Our goal is to provide a comprehensive solution for music enthusiasts and content creators.
+MUSTARD is an open-source powerful software designed for advanced music translation, ranging from the separation of instrumental and vocal tracks to high-quality speech synthesis while preserving musicality. Our goal is to provide a comprehensive solution for music enthusiasts and content creators.
 
 ## Key Features
 
