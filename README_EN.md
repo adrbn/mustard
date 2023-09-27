@@ -33,7 +33,7 @@ Explain how to use your software with examples and screenshots. Be sure to provi
 
 ```bash
 # Example usage
-mustard-cli --input input.mp3 --output output.mp3 --language french
+mustard --input input.mp3 --output output.mp3 --language french
 ```
 
 ## Documentation
