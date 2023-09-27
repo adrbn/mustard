@@ -53,11 +53,8 @@ Rien ici pour l'instant
 
 ## Licence
 
-Ce projet est sous licence [Nom de la licence]. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
-```
-Rien ici pour l'instant
-```
 
 ## Contact
 
