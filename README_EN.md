@@ -25,8 +25,6 @@ MUSTARD is an open-source powerful software designed for advanced music translat
 
 ## Installation
 
-Describe how to install your software here, including dependencies and specific steps for different platforms if necessary.
-
 ```bash
 # Example installation for Linux
 git clone https://github.com/adrbn/mustard.git
@@ -35,8 +33,6 @@ cd mustard
 ```
 
 ## Usage
-
-Explain how to use your software with examples and screenshots. Be sure to provide clear instructions.
 
 ```bash
 # Example usage
