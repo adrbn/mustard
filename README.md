@@ -25,8 +25,6 @@ MUSTARD est un logiciel en libre accès puissant conçu pour la traduction avanc
 
 ## Installation
 
-Décrivez ici comment installer votre logiciel, y compris les dépendances et les étapes spécifiques pour différentes plates-formes si nécessaire.
-
 ```bash
 # Exemple d'installation pour Linux
 git clone https://github.com/adrbn/mustard.git
@@ -35,8 +33,6 @@ cd mustard
 ```
 
 ## Usage
-
-Explain how to use your software with examples and screenshots. Be sure to provide clear instructions.
 
 ```bash
 # Example usage
