@@ -1,6 +1,6 @@
 # MUSTARD - Music Universal Synthesis and Translation with Rich Detail
 
-![MUSTARD Logo](link-to-your-logo.png)
+![MUSTARD Logo](assets/mustard_logo.png)
 
 MUSTARD est un logiciel puissant conçu pour la traduction avancée de la musique, allant de la séparation des pistes instrumentales et vocales à la synthèse vocale de haute qualité en passant par la traduction des paroles. Notre objectif est de fournir une solution complète pour les amateurs de musique et les créateurs de contenu.
 
