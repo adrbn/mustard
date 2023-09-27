@@ -22,7 +22,7 @@ Décrivez ici comment installer votre logiciel, y compris les dépendances et le
 
 ```bash
 # Exemple d'installation pour Linux
-git clone https://github.com/votre-utilisateur/mustard.git
+git clone https://github.com/adrbn/mustard.git
 cd mustard
 ./install.sh
 ```
@@ -33,7 +33,7 @@ Explain how to use your software with examples and screenshots. Be sure to provi
 
 ```bash
 # Example usage
-mustard-cli --input input.mp3 --output output.mp3 --language french
+mustard --input input.mp3 --output output.mp3 --language french
 ```
 
 ## Documentation
