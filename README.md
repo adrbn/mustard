@@ -1,6 +1,8 @@
 # MUSTARD - Music Universal Synthesis and Translation with Rich Detail
 
-![MUSTARD Logo](assets/mustard_logo.png)
+<br>
+<img src="assets/mustard_logo.png" alt="MUSTARD Logo" width="444">
+<br>
 
 MUSTARD est un logiciel puissant conçu pour la traduction avancée de la musique, allant de la séparation des pistes instrumentales et vocales à la synthèse vocale de haute qualité en passant par la traduction des paroles. Notre objectif est de fournir une solution complète pour les amateurs de musique et les créateurs de contenu.
 
@@ -23,3 +25,40 @@ Décrivez ici comment installer votre logiciel, y compris les dépendances et le
 git clone https://github.com/votre-utilisateur/mustard.git
 cd mustard
 ./install.sh
+```
+
+## Usage
+
+Explain how to use your software with examples and screenshots. Be sure to provide clear instructions.
+
+```bash
+# Example usage
+mustard-cli --input input.mp3 --output output.mp3 --language french
+```
+
+## Documentation
+
+Pour des informations détaillées sur l'utilisation, la configuration et la personnalisation de MUSTARD, consultez notre [documentation complète](link-to-docs).
+
+```
+Rien ici pour l'instant
+```
+
+## Contribuer
+
+Nous accueillons les contributions de la communauté ! Consultez notre guide de contribution pour en savoir plus sur la manière de contribuer au projet.
+```
+Rien ici pour l'instant
+```
+
+## Licence
+
+Ce projet est sous licence [Nom de la licence]. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+
+```
+Rien ici pour l'instant
+```
+
+## Contact
+
+Pour toute question ou commentaire, veuillez nous contacter à [votre-email@example.com].
